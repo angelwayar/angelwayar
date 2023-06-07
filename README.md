@@ -2,7 +2,7 @@
 ### I'm Angel Wayar, full-stack developer 
 
 
-- 🔭 I’m currently working on [Ml-Plataform](https://github.com/angelwayar/ml-plataform) 
+- 🔭 I’m currently working on [Ml-Plataform](https://github.com/angelwayar/ml-plataform), [Ml-Plataform-Front-End](https://github.com/angelwayar/ml-plataform-f) 
 
 - 🌱 I’m currently learning about machine learning
 
