@@ -49,7 +49,7 @@
 ## My work
 | [Fipod](https://github.com/angelwayar/fipod)     | [Animated_SideBar](https://github.com/angelwayar/animated_sidebar) |
 | ----------- | ----------- |
-| <img src="assets/fipod.gif" width="250">    | <img src="assets/record.gif" width="250">       |
+| <img src="./assets/fipod.gif" width="250">    | <img src="./assets/record.gif" width="250">       |
 
 
 ## Connect with me  
