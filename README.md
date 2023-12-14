@@ -52,7 +52,7 @@
 | <img src="./assets/fipod.gif" width="250">    | <img src="./assets/record.gif" width="250">       |
 | [Clean Architecture](https://github.com/angelwayar/clean-architecture)     |
 | ----------- |
-| <img src="./assets/fipod.gif" width="250">    |
+| <img src="./assets/clean_architecture_flutter_2.jpg" width="250">    |
 
 
 ## Connect with me  
