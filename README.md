@@ -47,6 +47,7 @@
 <br/>  
 
 ## My work
+### Flutter
 | [Fipod](https://github.com/angelwayar/fipod)     | [Animated_SideBar](https://github.com/angelwayar/animated_sidebar) |
 | ----------- | ----------- |
 | <img src="./assets/fipod.gif" width="250">    | <img src="./assets/record.gif" width="250">       |
@@ -54,8 +55,10 @@
 | <img src="./assets/clean_architecture_flutter_2.jpg" width="250">    | <img src="./assets/cookies_app.jpeg" width="250">       |
 | [Flight App](https://github.com/angelwayar/flight_app)     | [Skateboard Onboarding App](https://github.com/angelwayar/skateboard_app) |
 | <img src="./assets/flight_app.gif" width="250">    | <img src="./assets/skateboard_onboarding.gif" width="250">       |
-| [Tres En Raya](https://github.com/angelwayar/tres_en_raya)     |
-| <img src="./assets/tres_en_raya.PNG" width="250">    |
+
+### React
+| [Tres En Raya](https://github.com/angelwayar/tres_en_raya)    | [Buscador De Películas](https://github.com/angelwayar/search_movies)     |
+| <img src="./assets/tres_en_raya.PNG" width="250">    | <img src="./assets/buscador_de_peliculas.PNG" width="250">    |
 
 
 ## Connect with me  
