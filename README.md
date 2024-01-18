@@ -60,6 +60,8 @@
 | [Tres En Raya](https://github.com/angelwayar/tres_en_raya)    | [Buscador De Películas](https://github.com/angelwayar/search_movies)     |
 | ----------- | ----------- |
 | <img src="./assets/tres_en_raya.PNG" width="250">    | <img src="./assets/buscador_de_peliculas.PNG" width="250">    |
+| [Shopping Cart](https://github.com/angelwayar/shopping_cart_react)    |
+| <img src="./assets/shopping_cart.PNG" width="250">    |
 
 
 ## Connect with me  
